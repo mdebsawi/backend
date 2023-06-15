@@ -1,5 +1,5 @@
 /* eslint-disable no-var */
-/* eslint-disable no-use-before-define */
+/* eslint-disable no-use-before-define - little modifiication*/
 var http = require('http');
 
 const manager = {
